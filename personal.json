@@ -1,0 +1,74 @@
+{
+    "__class__": "Lista",
+    "Nodos": [
+        {
+            "__class__": "PersonalApoyo",
+            "__atributos__": {
+                "categoria": 10,
+                "cuil": "20-41237596-7",
+                "apellido": "Perez",
+                "nombre": "Juan",
+                "basico": 25000.0,
+                "antiguedad": 3
+            }
+        },
+        {
+            "__class__": "DocenteInvestigador",
+            "__atributos__": {
+                "extra": 20000.0,
+                "categoriaIncentivo": "IV",
+                "area": "Area 2",
+                "tipoInvestigador": "tipo 1",
+                "carrera": "lsi",
+                "cargo": "simple",
+                "catedra": "poo",
+                "cuil": "20-31237596-7",
+                "apellido": "Delgado",
+                "nombre": "Ciro",
+                "basico": 50000.0,
+                "antiguedad": 8
+            }
+        },
+        {
+            "__class__": "DocenteInvestigador",
+            "__atributos__": {
+                "extra": 15000.0,
+                "categoriaIncentivo": "V",
+                "area": "Area 1",
+                "tipoInvestigador": "tipo 1",
+                "carrera": "lcc",
+                "cargo": "simple",
+                "catedra": "poo",
+                "cuil": "21-37245312-2",
+                "apellido": "Gomez",
+                "nombre": "Jose",
+                "basico": 40000.0,
+                "antiguedad": 6
+            }
+        },
+        {
+            "__class__": "PersonalApoyo",
+            "__atributos__": {
+                "categoria": 11,
+                "cuil": "25-39258894-9",
+                "apellido": "pereyra",
+                "nombre": "sergio",
+                "basico": 20000.0,
+                "antiguedad": 4
+            }
+        },
+        {
+            "__class__": "Docente",
+            "__atributos__": {
+                "carrera": "lcc",
+                "cargo": "docente",
+                "catedra": "programacion",
+                "cuil": "20-10940420-9",
+                "apellido": "Delgado",
+                "nombre": "Armando Ciro",
+                "basico": 150000.0,
+                "antiguedad": 20
+            }
+        }
+    ]
+}
